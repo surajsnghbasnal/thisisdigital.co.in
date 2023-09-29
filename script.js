@@ -280,7 +280,7 @@ gsap.from('.post', {
     }
 })
 
-var swiper = new Swiper(".mySwiper", {
+var swiper = new Swiper(".mySwiper2", {
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
@@ -288,7 +288,7 @@ var swiper = new Swiper(".mySwiper", {
         disableOnInteraction: false,
     },
     pagination: {
-        el: ".swiper-pagination",
+        el: ".swiper-pagination2",
         clickable: true,
     },
     grabCursor: true,
