@@ -698,53 +698,6 @@ header {
 }
 
 
-.page-6>.container {
-    height: 100%;
-    width: 100%;
-}
-
-.swiper2 {
-    width: 100%;
-    height: 100%;
-}
-
-.swiper-slide2 {
-    text-align: center;
-    background: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: black;
-    flex-direction: column;
-    gap: 2vmax;
-}
-
-.swiper-slide2 img {
-    width: 7vmax;
-    height: 7vmax;
-    object-fit: contain;
-}
-
-.swiper-slide2 h1 {
-    font-family: cooper lg;
-    font-size: 3.5vmax;
-    color: black;
-    width: 65%;
-}
-
-.desig>span {
-    display: inline-block;
-    width: 13px;
-    height: 13px;
-    background-color: #00EB8F;
-    border-radius: 50%;
-    margin-right: 5px;
-}
-
-.comp {
-    color: #8c8c8c;
-}
-
 .page-7 {
     display: flex;
     justify-content: center;
